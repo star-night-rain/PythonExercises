@@ -1,0 +1,1 @@
+print("{:-^20}".format(pow(eval(input()), 3)))
